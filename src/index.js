@@ -8,7 +8,7 @@ function candyReducer(state = [], action) {
       return state;
   }
 }
-sd
+
 
 function render() {
   let container = document.getElementById('container');
